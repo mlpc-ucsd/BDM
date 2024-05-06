@@ -4,8 +4,8 @@
 
 ### CVPR 2024
 
-[![Arxiv](http://img.shields.io/badge/arXiv-2302.10668-B31B1B.svg)](https://arxiv.org/abs/2302.10668)
-[![CVPR](http://img.shields.io/badge/CVPR-2024-4b44ce.svg)](https://arxiv.org/abs/2302.10668)
+[![Arxiv](http://img.shields.io/badge/arXiv-2403.06973-B31B1B.svg)](https://arxiv.org/abs/2403.06973)
+[![CVPR](http://img.shields.io/badge/CVPR-2024-4b44ce.svg)](https://arxiv.org/abs/2403.06973)
 
 </div>
 
